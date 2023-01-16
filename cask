@@ -1,0 +1,10 @@
+cask 'luxfocusredux' do
+  version '1.0'
+  sha256 :no_check
+
+  url 'https://drive.google.com/file/d/1g8PrZ2aK2KnKkL6NkwMarnz5rxqGiUvn/view?usp=sharing'
+  name 'LuxFocus Redux'
+  homepage 'https://gitlab.rmn.com/bdorn/luxfocusredux'
+
+  app 'LuxFocusRedux.app'
+end
